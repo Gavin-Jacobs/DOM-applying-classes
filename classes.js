@@ -33,6 +33,7 @@ three.classList.add('red')
 
 }
 // CREATE FUNCTION makeVisible HERE
-function makeVisible[0]{
-  visible.classList
+function makeVisible([0]){
+  var makeVisible=document.getElementById(makeVisible)
+  makevisible.classList.add(visible)
 }
