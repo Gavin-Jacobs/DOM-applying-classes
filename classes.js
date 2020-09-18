@@ -35,5 +35,6 @@ three.classList.add('red')
 // CREATE FUNCTION makeVisible HERE
 function makeVisible(){
   var makeVisible=document.getElementsByClassName('invisible')
+
   makeVisible.classList.add('visible')
 }
